@@ -1,1 +1,1 @@
-"these are changes made in the feature branch in demo.txt"
+These are changes made in the remote repository in demo.txt
