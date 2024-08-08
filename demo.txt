@@ -1,2 +1,1 @@
-"hello! this is a git demo repository" 
-"This is additional text being added to see the changes in the tracked file."
+"these are changes made in the feature branch in demo.txt"
